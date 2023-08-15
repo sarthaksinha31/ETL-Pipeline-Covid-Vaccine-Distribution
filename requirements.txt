@@ -1,0 +1,13 @@
+pandas
+snscrape
+yfinance
+requests
+dagster
+dagster-pandas
+dagit
+pymongo
+psycopg2
+sqlalchemy
+plotly
+kaleido
+dash
