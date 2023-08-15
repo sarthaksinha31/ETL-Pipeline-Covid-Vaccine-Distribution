@@ -1,0 +1,43 @@
+.header-title {
+    font-style: italic;
+    font-size: 45px;
+    color: #0d3161;
+    text-align: center;
+}
+
+.header-description {
+    color: #CFCFCF;
+    /* margin: 4px auto; */
+    /* text-align: center; */
+    max-width: 1000px;
+    max-height: 5000px;
+}
+
+.menu-title {
+    margin-bottom: 6px;
+    font-weight: bold;
+    color: #db5942;
+    /* text-align: center; */
+    left: 770px;
+}
+
+.card {
+    color: #CFCFCF;
+    margin-bottom: 24px;
+    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.18);
+    max-width: 1000px;
+    max-height: 500px;
+    /* text-align: center; */
+    /* margin: 4px auto; */
+}
+
+.dropdown{
+    text-align: center;
+    font-size: 16px;
+    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.18);
+    color: rgb(59, 127, 199);
+    background-color: rgb(97, 154, 194);
+    max-width: 200px;
+    /* right: 770px */
+    /* margin: 4px auto; */
+}
