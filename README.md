@@ -1,4 +1,4 @@
-# ETL Pipeline using Dagster and Data Analysis to identify vaccine stock price correlation and its distribution
+# Investigating Vaccine Stock Price and Vaccine Distribution Correlation with a Dagster-based ETL Pipeline
 
 ## Project Overview
 
