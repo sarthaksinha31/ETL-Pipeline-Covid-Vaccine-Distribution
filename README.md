@@ -6,6 +6,14 @@ Cultivating an Advanced ETL Solution with [Dagster](https://dagster.io/): Unifyi
 
 For Dashboard & Data Visualization [Plotly Dash](https://plotly.com/dash/) has been used which is a python framework to develop data application.
 
+## Stack
+- Python
+- [Dagster](https://dagster.io/)
+- [MongoDB](https://www.mongodb.com/languages/python)
+- [PostgreSQL](https://www.postgresql.org/)
+- [Plotly](https://plotly.com/python/)
+- [Dash](https://plotly.com/dash/)
+
 ## Steps to run the project
 1. Create a virtual environment and install the dependencies using pip3 install -r requirements.txt and now activate the virtual environment.
 2. Go to data-consolidation folder and run run.py file using python3 run.py, it will ask to enter the mongo db connection string please enter the connection string.
