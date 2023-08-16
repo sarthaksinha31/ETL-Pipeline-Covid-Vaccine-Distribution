@@ -2,9 +2,9 @@
 
 ## Project Overview
 
-In this project we have developed an ETL pipeline using Dagster where the datasets of different vaccine companies are accumulated using REST APIs and stored the data into Mongo DB. 
+Cultivating an Advanced ETL Solution with [Dagster](https://dagster.io/): Unifying Heterogeneous Vaccine Company Datasets Sourced via REST APIs, Consolidating Data into MongoDB for Initial Aggregation, Subsequent Rigorous Cleaning, and Ultimately Storing in PostgreSQL to Facilitate In-Depth Data Analysis and Insights.
 
-For Dashboard plotly Dash has been used which is a python framework to develop data application.
+For Dashboard & Data Visualization [Plotly Dash](https://plotly.com/dash/) has been used which is a python framework to develop data application.
 
 ## Steps to run the project
 1. Create a virtual environment and install the dependencies using pip3 install -r requirements.txt and now activate the virtual environment.
